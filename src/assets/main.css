@@ -1,0 +1,40 @@
+body {
+  direction: rtl;
+  font-family: "Samim FD WOL", "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
+
+.Toastify__toast,
+.Toastify__toast-body,
+.Toastify__toast-container {
+  font-family: "Samim FD WOL", "Roboto", "Helvetica", "Arial", sans-serif !important;
+  direction: rtl;
+  unicode-bidi: plaintext;
+  font-size: 0.85rem !important;
+  max-width: 500px !important;
+  min-width: 320px !important;
+  width: unset !important;
+}
+
+.Toastify__toast-icon svg {
+  width: 20px;
+  height: 20px;
+}
+
+.__react_component_tooltip {
+  z-index: 1250 !important;
+}
+
+.samimWOL {
+  font-family: "Samim WOL", "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.vazirCode {
+  font-family: "Vazir Code", "Vazir Code Hack", monospaced !important;
+}
+
+.force-ltr {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
+

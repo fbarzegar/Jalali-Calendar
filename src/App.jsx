@@ -1,9 +1,8 @@
-import { useState } from "react";
+import Calendar from "./calendar";
+import "../src/assets/main.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
-  return <></>;
+  return <Calendar />;
 }
 
 export default App;
